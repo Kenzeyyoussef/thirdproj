@@ -1,0 +1,109 @@
+#navbar{
+    padding: 0%;
+    float: left;
+    color: black;
+    font-size: 20px;
+    border:5px solid lightgray;
+    height: 3300px;
+    width: 20%;
+    overflow: scroll;
+    border-left: none;
+    position: fixed;
+    border-top: none;
+    
+}
+
+h1{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: -100px;
+    font-weight: bold;
+    color: black;
+    
+}
+
+
+#ul{
+    list-style: none;
+    padding-left: 15px;
+    margin-left: -16px;
+    font-size: 18px;
+    
+}
+
+#ul a:any-link{
+    color:rgb(89, 87, 87);
+    text-decoration: none;
+}
+
+#navbar a:hover{
+    color:none;
+}
+
+p{
+    color: rgb(73, 70, 70);
+    font-size: 15px;
+    margin-left: -60px;
+}
+
+div{
+    text-align: justify;
+    margin-left: 30%;
+    width:55%;
+    padding-top: 15px;
+    
+    
+}
+
+a{
+    padding-left: 20px;
+    
+}
+
+.b{
+    margin-left: -60px;
+    background-color: rgb(229, 223, 223);
+    border: 1px;
+    padding-right: 550px;
+    color:rgb(73, 70, 70);
+    
+    
+}
+
+ul{
+    color: rgb(73, 70, 70);
+    margin-left: -83px;
+}
+
+.Y{
+    color:rgb(73, 70, 70);
+    
+}
+
+
+span{   
+    display: block;
+    text-align: left;
+    margin-left:-60px;
+    
+}
+
+#n{
+    display: block;
+    text-align: left;
+    margin-left:-60px;  
+}
+
+#variable{
+    text-align: left;
+    margin-right:500px
+    
+}
+
+#disc{
+    margin: 20px;
+}
+
+h2{
+    padding-left: 15px;
+}
